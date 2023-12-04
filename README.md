@@ -3,7 +3,7 @@ The operation functions of adding and deleting query, opening and closing are gi
 
 
 compile cmd:
-    make
+    make  
 clean cmd:
     make clean
 
